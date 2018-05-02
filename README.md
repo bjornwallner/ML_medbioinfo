@@ -15,10 +15,8 @@ Many of the exercises will use Jupyter notebooks, an interactive Python environm
 * Use a Jupyter notebook to do the first two tutorials on  [scikit-learn](http://scikit-learn.org/stable/tutorial/).
 Hint: you can hide the prompt and output of code blocks by clicking the top right corner ![hide_prompt](images/hide_prompt.png)
 
-
-if you press 
-  * [An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
-  * [A tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html)
+  - [An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
+  - [A tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html)
 
 
 
