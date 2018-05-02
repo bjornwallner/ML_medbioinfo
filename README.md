@@ -6,6 +6,7 @@ This repository contains preparatory tasks, reading material and exercises for t
 
 Many of the exercises will use Jupyter notebooks, an interactive Python environments that makes it possible to combine documentation with code.
 
+### Setup
 * Read all of the instructions before starting.
 
 * Install [Anaconda](https://www.anaconda.com/download/) on your laptop, choose the Python 3.6 version. This will install a special version of Python that includes the Jupyter Notebook and basically all Python modules needed (deep-learning modules has to be installed separately), see instructions here: https://github.com/DeepLearningDTU/02456-deep-learning.
@@ -13,6 +14,8 @@ Many of the exercises will use Jupyter notebooks, an interactive Python environm
 * If you are unfamiliar with Jupyter notebooks you can learn more using the following tutorial: https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook. 
 
 * Git clone the excerises for the deep learning here: https://github.com/DeepLearningDTU/02456-deep-learning, and make sure that you can open the notebooks.
+
+### Machine Learning Introduction
 
 * Use a Jupyter notebook to do the first two tutorials on  [scikit-learn](http://scikit-learn.org/stable/tutorial/).
 Focusing on the key concepts outlined below. The goal with this exercise is:
