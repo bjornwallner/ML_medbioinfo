@@ -2,7 +2,7 @@
 
 This repository contains reading material and exercises for the Machine Learning in Medical Bioinformatics.
 
-## Preparatory tasks (To be finished before the Workshop)
+## [Preparatory tasks (To be finished before the Workshop)](prep.md)
 
 Many of the exercises will use Jupyter notebooks, an interactive Python environments that makes it possible to combine documentation with code.
 
