@@ -16,6 +16,7 @@ Many of the exercises will use Jupyter notebooks, an interactive Python environm
 
 * Use a Jupyter notebook to do the first two tutorials on  [scikit-learn](http://scikit-learn.org/stable/tutorial/).
 Focusing on the key concepts outlined below. The goal with this exercise is:
+
   * To understand the key concepts
   * Familiar yourself with Jupyter notebooks
   
@@ -23,16 +24,16 @@ Write down descriptions for the concepts, and at least three questions that can 
 Hint: you can hide the prompt and output of code blocks by clicking the top right corner (see below) ![hide_prompt](images/hide_prompt.png)
 
   1. [An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
-     Key concepts:
-     * Training set
-     * Testing set
-     * Samples
-     * Features
-     * Target
-     * Classification
-     * Regression
-     * Model fit
-     * Model predict
+     * Key concepts:
+       * Training set
+       * Testing set
+       * Samples
+       * Features
+       * Target
+       * Classification
+       * Regression
+       * Model fit
+       * Model predict
 
   2. [A tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html), stop at "Putting it all together"
      Key concepts:
