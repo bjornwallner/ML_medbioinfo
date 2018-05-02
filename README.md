@@ -20,6 +20,9 @@ Many of the exercises will use Jupyter notebooks, an interactive Python environm
 
 ----------------------
 
+## Exercise (During the Workshop)
+
+
 
 ## Unsupervised learning, theory and exercise.
 
