@@ -1,1 +1,1 @@
-# ML_medbioinfo
+# Machine Learning in Medical Bioinformatics
