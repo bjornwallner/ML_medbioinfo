@@ -8,24 +8,28 @@ Many of the exercises will use Jupyter notebooks, an interactive Python environm
 
 * Read all of the instructions before starting.
 
-* Install [Anaconda](https://www.anaconda.com/download/) on your laptop, choose the Python 3.6 version. This will install a special version of Python that includes the Jupyter Notebook and basically all Python modules needed (deep-learning modules that has to be installed separately).
+* Install [Anaconda](https://www.anaconda.com/download/) on your laptop, choose the Python 3.6 version. This will install a special version of Python that includes the Jupyter Notebook and basically all Python modules needed (deep-learning modules has to be installed separately), see instructions here: https://github.com/DeepLearningDTU/02456-deep-learning.
 
 * If you are unfamiliar with Jupyter notebooks you can learn more using the following tutorial: https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook. 
 
-* Download the excerises for the deep learning here: https://github.com/DeepLearningDTU/02456-deep-learning, and make sure that you can open the notebooks.
+* Git clone the excerises for the deep learning here: https://github.com/DeepLearningDTU/02456-deep-learning, and make sure that you can open the notebooks.
 
-* Use a Jupyter notebook to do the first two tutorials on  [scikit-learn](http://scikit-learn.org/stable/tutorial/). Focusing on the key concepts outlined below. The goal with this exercise is that you should understand the key concepts, and familiar yourself with Jupyter notebooks.
+* Use a Jupyter notebook to do the first two tutorials on  [scikit-learn](http://scikit-learn.org/stable/tutorial/). Focusing on the key concepts outlined below. The goal with this exercise is that you should understand the key concepts, and familiar yourself with Jupyter notebooks. Write down descriptions for the concepts, and at least three questions that can be discussed. 
 Hint: you can hide the prompt and output of code blocks by clicking the top right corner (see below) ![hide_prompt](images/hide_prompt.png)
 
   1. [An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
      Key concepts:
-     * Training and testing set
+     * Training set
+     * Testing set
+     * Samples
+     * Features
+     * Target
      * Classification
      * Regression
      * Model fit
      * Model predict
 
-  2. [A tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html)
+  2. [A tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html), stop at "Putting it all together"
      Key concepts:
      * Supervised learning, incl. examples of methods
      * Unsupervised learning, incl. examples of methods
