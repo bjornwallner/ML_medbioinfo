@@ -14,10 +14,11 @@ Many of the exercises will use Jupyter notebooks, an interactive Python environm
 
 * Git clone the excerises for the deep learning here: https://github.com/DeepLearningDTU/02456-deep-learning, and make sure that you can open the notebooks.
 
-* Use a Jupyter notebook to do the first two tutorials on  [scikit-learn](http://scikit-learn.org/stable/tutorial/). Focusing on the key concepts outlined below. The goal with this exercise is:
+* Use a Jupyter notebook to do the first two tutorials on  [scikit-learn](http://scikit-learn.org/stable/tutorial/).
+Focusing on the key concepts outlined below. The goal with this exercise is:
 
-  * understand the key concepts
-  * familiar yourself with Jupyter notebooks
+  * To understand the key concepts
+  * Familiar yourself with Jupyter notebooks
 
 Write down descriptions for the concepts, and at least three questions that can be discussed. 
 Hint: you can hide the prompt and output of code blocks by clicking the top right corner (see below) ![hide_prompt](images/hide_prompt.png)
