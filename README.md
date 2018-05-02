@@ -1,6 +1,6 @@
 # Machine Learning in Medical Bioinformatics
 
-This repository contains reading material and exercises for the Machine Learning in Medical Bioinformatics.
+This repository contains preparatory tasks, reading material and exercises for the Machine Learning in Medical Bioinformatics.
 
 ## Preparatory tasks (To be finished before the Workshop)
 
