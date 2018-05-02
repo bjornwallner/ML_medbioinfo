@@ -12,7 +12,7 @@ Many of the exercises will use Jupyter notebooks, an interactive Python environm
 
 * Download the excerises for the deep learning here: https://github.com/DeepLearningDTU/02456-deep-learning, and make sure that you can open the notebooks.
 
-* Use a Jupyter notebook to do the first two tutorials on  [scikit-learn](http://scikit-learn.org/stable/tutorial/), you can hide the prompt and output of code blocks by clicking the top right corner [!hide_prompt](images(hide_prompt.png)
+* Use a Jupyter notebook to do the first two tutorials on  [scikit-learn](http://scikit-learn.org/stable/tutorial/), you can hide the prompt and output of code blocks by clicking the top right corner [!hide_prompt](images/hide_prompt.png)
 
 
 if you press 
