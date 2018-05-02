@@ -36,15 +36,15 @@ Hint: you can hide the prompt and output of code blocks by clicking the top righ
        * Model predict
 
   2. [A tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html), stop at "Putting it all together"
-     Key concepts:
-     * Supervised learning, incl. examples of methods
-     * Unsupervised learning, incl. examples of methods
-     * Model selection
-     * Model estimator
-     * Model parameters
-     * Score
-     * Cross-validation
-     * Grid-search
+     * Key concepts:
+       * Supervised learning, incl. examples of methods
+       * Unsupervised learning, incl. examples of methods
+       * Model selection
+       * Model estimator
+       * Model parameters
+       * Score
+       * Cross-validation
+       * Grid-search
      
 
 
