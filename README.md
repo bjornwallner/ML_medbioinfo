@@ -2,8 +2,11 @@
 
 This repository contains reading material and exercises for the Machine Learning in Medical Bioinformatics.
 
-## [Preparatory tasks (To be finished before the Workshop)](prep.md)
+* [Preparatory tasks (To be finished before the Workshop)](prep.md)
 
+* (exercise.md)
+
+* [Project](proj.md)
 Many of the exercises will use Jupyter notebooks, an interactive Python environments that makes it possible to combine documentation with code.
 
 * Install [Anaconda](https://www.anaconda.com/download/) on your laptop, choose the Python 3.6 version. This will install a special version of Python that includes the Jupyter Notebook and basically all Python modules needed (deep-learning modules that has to be installed separately).
