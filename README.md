@@ -2,7 +2,7 @@
 
 This repository contains reading material and exercises for the Machine Learning in Medical Bioinformatics.
 
-## Preparatory tasks
+## Preparatory tasks (To be finished before the Workshop)
 
 Many of the exercises will use Jupyter notebooks, an interactive Python environments that makes it possible to combine documentation with code.
 
@@ -16,6 +16,9 @@ Many of the exercises will use Jupyter notebooks, an interactive Python environm
   * [An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
   * [A tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html)
 
+
+
+----------------------
 
 
 ## Unsupervised learning, theory and exercise.
