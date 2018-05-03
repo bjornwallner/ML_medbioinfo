@@ -26,9 +26,9 @@ Focusing on the key concepts outlined below. The goal with this exercise is:
 
 Actions:
 
-	* Write down descriptions for the concepts
-	* Come up with at least three questions that can be discussed.
-	* Think about cases were ML can be applied to your particular area (this can be used in the project later as well).
+  * Write down descriptions for the concepts
+  * Come up with at least three questions that can be discussed.
+  * Think about cases were ML can be applied to your particular area (this can be used in the project later as well).
 	
 Hint: you can hide the prompt and output of code blocks by clicking the top right corner (see below) ![hide_prompt](images/hide_prompt.png)
 
