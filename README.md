@@ -19,7 +19,7 @@ Many of the exercises will use Jupyter notebooks, an interactive Python environm
 We will use the [scikit-learn](http://scikit-learn.org/stable/index.html) module to do machine learning in Python. It is built on NumPy, SciPy, and matplotlib and is fairly easy to use and it contains all the basic functions to do regular supervised and unsupervised learning. It contains a Neural network module as well, but it is fairly limited, so for neural nets we will use [Tensorflow](tensorflow.org) and the [Keras](keras.io) API
 
 * Use a Jupyter notebook to do the first two tutorials on  [scikit-learn](http://scikit-learn.org/stable/tutorial/).
-Focusing on the key concepts outlined below. The **goal** with this exercise is:
+Focusing on the key concepts outlined below. The **goal** with this preparatory exercise is:
 
   * To understand the key concepts
   * Familiar yourself with Jupyter notebooks
@@ -80,5 +80,12 @@ http://scikit-learn.org/stable/tutorial/
 
 
 ## Project
-The project is the examining part of the course. Together with participation at the workshop it is compulsory to gain the course credits. The workload is expected to be about a week. The project is your chance to learn a bit more about some particular methods.
+The project is the examining part of the course. Together with participation at the workshop it is compulsory to gain the course credits. The workload is expected to be about a week. The project is your chance to learn a bit more about some particular ML methods. Choose at least two supervised and two undersupervised method.
 
+* Describe the chosen methods
+* Describe what parameters are important
+* Decribe the data sets you have chosen to work with. 
+
+
+
+If you cannot find a suitable ML project within your particular domain, choose a data set from the Life Science area in the [Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html?format=&task=&att=&area=life&numAtt=&numIns=&type=&sort=nameUp&view=table) to study. Make sure it has a good balance between number of examples (# Instances) and number of features (# Attributes).
