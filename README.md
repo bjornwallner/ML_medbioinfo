@@ -23,8 +23,13 @@ Focusing on the key concepts outlined below. The goal with this exercise is:
 
   * To understand the key concepts
   * Familiar yourself with Jupyter notebooks
-  
-Write down descriptions for the concepts, and at least three questions that can be discussed. 
+
+Actions:
+
+	* Write down descriptions for the concepts
+	* Come up with at least three questions that can be discussed.
+	* Think about cases were ML can be applied to your particular area (this can be used in the project later as well).
+	
 Hint: you can hide the prompt and output of code blocks by clicking the top right corner (see below) ![hide_prompt](images/hide_prompt.png)
 
   1. [An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
@@ -75,3 +80,5 @@ http://scikit-learn.org/stable/tutorial/
 
 
 ## Project
+The project is the examining part of the course. Together with participation at the workshop it is compulsory to gain the course credits. The workload is expected to be about a week. The project is your chance to learn a bit more about some particular methods.
+
