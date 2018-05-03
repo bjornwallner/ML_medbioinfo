@@ -69,9 +69,9 @@ Reading list:
 
 Reading material Michael Nielsen, Neural networks and deep learning http://neuralnetworksanddeeplearning.com/
 
-* Chapter 1, [Using neural nets to recognize handwritten digits] (http://neuralnetworksanddeeplearning.com/chap1.html)
+* Chapter 1, [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
 * Chapter 2, [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
-* Chapter 3, [Improving the way neural networks learn] (http://neuralnetworksanddeeplearning.com/chap3.html)
+* Chapter 3, [Improving the way neural networks learn](http://neuralnetworksanddeeplearning.com/chap3.html)
 * Chapter 5, [Why are deep neural networks hard to train?](http://neuralnetworksanddeeplearning.com/chap5.html)
 * Chapter 6. [Deep Learning](http://neuralnetworksanddeeplearning.com/chap6.html)
 
