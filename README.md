@@ -57,6 +57,11 @@ Hint: you can hide the prompt and output of code blocks by clicking the top righ
      
 
 
+### Statistical principles in supervised machine learning: overfitting, regularization and all that
+Reading list:
+	- James et al. (2013). An Introduction to Statistical Learning – with Applications in R. Springer. http://www-bcf.usc.edu/~gareth/ISL/. Chapters 2 and 6
+	- Hastie et al (2009). The Elements of Statistical Learning. Springer. https://web.stanford.edu/~hastie/ElemStatLearn/. Chapters 2 and 3
+
 
 ----------------------
 
@@ -84,8 +89,14 @@ The project is the examining part of the course. Together with participation at 
 
 * Describe the chosen methods
 * Describe what parameters are important
-* Decribe the data sets you have chosen to work with. 
+* Decribe the data sets you have chosen to work with.
+  * How do perform cross-validation to avoid over-fitting.
 
 
 
-If you cannot find a suitable ML project within your particular domain, choose a data set from the Life Science area in the [Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html?format=&task=&att=&area=life&numAtt=&numIns=&type=&sort=nameUp&view=table) to study. Make sure it has a good balance between number of examples (# Instances) and number of features (# Attributes).
+If you cannot find a suitable ML project within your particular domain, choose a data set from the [Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html) to study. Make sure it has a good balance between number of examples (# Instances) and number of features (# Attributes).
+
+For example:
+      * [Epileptic Seizure Recognition Data Set](http://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition)
+      * [Mice Protein Expression Data Set](http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression)
+   
