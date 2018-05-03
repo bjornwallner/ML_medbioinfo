@@ -24,7 +24,7 @@ Focusing on the key concepts outlined below. The goal with this exercise is:
   * To understand the key concepts
   * Familiar yourself with Jupyter notebooks
 
-Actions:
+* Actions:
 
   * Write down descriptions for the concepts
   * Come up with at least three questions that can be discussed.
