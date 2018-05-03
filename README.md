@@ -63,8 +63,11 @@ Reading list:
 * Hastie et al (2009). The Elements of Statistical Learning. Springer. https://web.stanford.edu/~hastie/ElemStatLearn/. Chapters 2 and 3
 
 
+### One day mini-course on Deep Learning
+
 ----------------------
 
+<!--
 ## Exercise (During the Workshop)
 
 
@@ -81,7 +84,7 @@ http://scikit-learn.org/stable/tutorial/
 
 
 ## One day mini-course on Deep Learning
-
+-->
 
 
 ## Project
