@@ -85,9 +85,6 @@ Reading material Michael Nielsen, Neural networks and deep learning http://neura
 
 
 
-Note that this is a lot of reading material so it is completely alright if you read over the next few weeks. 
-
-
 
 ----------------------
 
@@ -124,6 +121,7 @@ The project is the examining part of the course. Together with participation at 
 If you cannot find a suitable ML project within your particular domain, choose a data set from the [Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html) to study. Make sure it has a good balance between number of examples (# Instances) and number of features (# Attributes).
 
 For example:
+
       * [Epileptic Seizure Recognition Data Set](http://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition)
       * [Mice Protein Expression Data Set](http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression)
    
