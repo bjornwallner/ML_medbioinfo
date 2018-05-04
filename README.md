@@ -3,13 +3,16 @@
 This repository contains preparatory tasks, reading material and exercises for the Machine Learning in Medical Bioinformatics.
 
 ## Preparatory tasks (To be finished before the Workshop)
-Below is a list of tasks and reading material that should be finished before coming to the Workshop. The workload for the the preparatory tasks should be approximately one week, it is expected that you spend this amount of time to come prepared for the physical meeting. You are encourageFeel free to bring any questions that has come up for to the discussion.
+Below is a list of tasks and reading material that should be finished before coming to the Workshop. There are quite a lot of material so it is completely alright if you don't understand all the details. The workload for the the preparatory tasks should be approximately one week, it is expected that you spend this amount of time to be prepared for the physical meeting. How much you spend on the various parts is up to you and your specific background, but you should come prepared and contribute to the workshop. You are encouraged to bring any questions that has come up for discussion at the workshop.
 
 
 Many of the exercises will use Jupyter notebooks, an interactive Python environments that makes it possible to combine documentation with code. It is also possible to run Python and R code together.
 
 ### Setup
-* Read all of the instructions before starting, some tasks are practial, e.g. like follow this tutorial and some are reading a few chapters.
+
+Many of the exercises will use Jupyter notebooks, an interactive Python environments that makes it possible to combine documentation with code. It is also possible to run Python and R code together. Below are som instructions on how to set everything up.
+
+* Read all of the instructions before starting, some tasks are practial, and some are reading, and some might contain some overlap.
 
 * Install [Anaconda](https://www.anaconda.com/download/) on your laptop, choose the Python 3.6 version. This will install a special version of Python that includes the Jupyter Notebook and basically all Python modules needed (deep-learning modules has to be installed separately), see instructions here: https://github.com/DeepLearningDTU/02456-deep-learning.
 
@@ -60,24 +63,29 @@ Hint: you can hide the prompt and output of code blocks by clicking the top righ
 
 
 ### PREP: Statistical principles in supervised machine learning: overfitting, regularization and all that
-Reading list:
-* James et al. (2013). An Introduction to Statistical Learning – with Applications in R. Springer. http://www-bcf.usc.edu/~gareth/ISL/. Chapters 2 and 6
-* Hastie et al (2009). The Elements of Statistical Learning. Springer. https://web.stanford.edu/~hastie/ElemStatLearn/. Chapters 2 and 3
+Read one of these:
+
+* For those with maths/stats background that want to go slightly deeper into the topic:
+  * Hastie et al (2009). The Elements of Statistical Learning. Springer. https://web.stanford.edu/~hastie/ElemStatLearn/. Chapters 2 and 3
+* For those with other backgrounds:
+  * James et al. (2013). An Introduction to Statistical Learning – with Applications in R. Springer. http://www-bcf.usc.edu/~gareth/ISL/. Chapters 2 and 6
+
 
 
 ### PREP: One day mini-course on Deep Learning
 
+
 Reading material Michael Nielsen, Neural networks and deep learning http://neuralnetworksanddeeplearning.com/
 
-* Chapter 1, [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
-* Chapter 2, [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
-* Chapter 3, [Improving the way neural networks learn](http://neuralnetworksanddeeplearning.com/chap3.html)
-* Chapter 5, [Why are deep neural networks hard to train?](http://neuralnetworksanddeeplearning.com/chap5.html)
-* Chapter 6. [Deep Learning](http://neuralnetworksanddeeplearning.com/chap6.html)
+* Chapter 1: [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
+* Chapter 2: [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
+* Chapter 3: [Improving the way neural networks learn](http://neuralnetworksanddeeplearning.com/chap3.html), stop at "Overfitting and regularization"
+* Chapter 5: [Why are deep neural networks hard to train?](http://neuralnetworksanddeeplearning.com/chap5.html)
+* Chapter 6: [Deep Learning](http://neuralnetworksanddeeplearning.com/chap6.html)
 
 
 
-Chapters 1-3 (stop when reaching section called Overfitting and regularization) and browse Chapter 4. Note that this is a lot of reading material so it is completely alright if you read over the next few weeks. 
+Note that this is a lot of reading material so it is completely alright if you read over the next few weeks. 
 
 
 
