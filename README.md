@@ -104,17 +104,13 @@ Research papers - non-mandatory reading
 ----------------------
 
 ## Project
-The project is the examining part of the course. Together with participation at the workshop it is compulsory to gain the course credits. The workload is expected to be about a week. The project is your chance to learn a bit more about some particular ML methods. The project consists of applying some ML metods to a particular dataset or datasets, and the compare the results. 
+The project is the examining part of the course. Together with participation at the workshop it is compulsory to gain the course credits. The workload is expected to be about a week. The project is your chance to learn a bit more about some particular ML methods. The project consists of applying some ML metods to a particular dataset or datasets, and the compare the results. The results should be compiled in a written report, involving:
 
-
-Choose at least two supervised and two undersupervised method.
-
-* Describe the chosen methods
-* Describe what parameters are important
-* Decribe the data sets you have chosen to work with.
-  * How do perform cross-validation to avoid over-fitting.
-
-
+* Description of the chosen methods. In order to compare performance you need either to chose two different methods or in case of deep learning you could compare different architectures.
+* Description on what parameters are important
+* Description of the data sets you have chosen to work with.
+  * How cross-validation was performed to avoid over-fitting.
+* Presentation of the results and conclusions.
 
 If you cannot find a suitable ML project within your particular domain, choose a data set from the [Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html) to study. Make sure it has a good balance between number of examples (# Instances) and number of features (# Attributes).
 
@@ -125,5 +121,5 @@ For example:
 * Some more will be added, if you happen to have a good data set (good meaning tabular data with features+target) laying around that you think others could use, feel free to share. 
 
 
-
 ### PREP: Project
+* Think about use cases of ML in your problem domain.
