@@ -26,8 +26,8 @@ Many of the exercises will use Jupyter notebooks, an interactive Python environm
 git clone https://github.com/bjornwallner/ML_medbioinfo
 cd ML_medbioinfo/notebooks
 jupyter-notebook intro.ipynb
-
 ```
+You can use this notebook or create your own when doing the next exercise.
 
 ### 2. PREP: Machine Learning Introduction 
 We will use the [scikit-learn](http://scikit-learn.org/stable/index.html) module to do machine learning in Python. It is built on NumPy, SciPy, and matplotlib and is fairly easy to use and it contains all the basic functions to do regular supervised and unsupervised learning. It contains a Neural network module as well, but it is fairly limited, so for neural nets we will use [Tensorflow](tensorflow.org) and the [Keras](keras.io) API
