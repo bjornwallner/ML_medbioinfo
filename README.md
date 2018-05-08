@@ -84,11 +84,11 @@ Compute and exercises:
 
 We will use Jupyter Notebooks to run exercises in PyTorch. To get to that you need to install Anaconda and PyTorch  
  
-1. Before course: Follow the instructions in https://github.com/DeepLearningDTU/02456-deep-learning to install until the section called Native (no need to install TensorFlow).
+1. __Before course__: Follow the instructions in https://github.com/DeepLearningDTU/02456-deep-learning to install until the section called Native (no need to install TensorFlow).
 
-2. Before course: Install PyTorch (https://pytorch.org/) 
+2. __Before course__: Install PyTorch (https://pytorch.org/) 
 
-3. Before course: Run exercises in https://github.com/munkai/pytorch-tutorial/tree/master/1_novice (Do not run exercises involving Cuda)
+3. __Before course__: Run exercises in https://github.com/munkai/pytorch-tutorial/tree/master/1_novice (Do not run exercises involving Cuda)
 
 4. At the course we will run exercises from https://github.com/munkai/pytorch-tutorial/tree/master/2_intermediate
 
