@@ -11,7 +11,7 @@ After finishing (or during) the preparatory exercise you should post at least th
 Good luck and if you have any question, do not hesitate to contact me. Contact details here
 
 
-### Setup
+### 1. Setup
 
 Many of the exercises will use Jupyter notebooks, an interactive Python environments that makes it possible to combine documentation with code. It is also possible to run Python and R code together. Below are som instructions on how to set everything up.
 
@@ -23,7 +23,7 @@ Many of the exercises will use Jupyter notebooks, an interactive Python environm
 
 * Git clone the excerises for the deep learning here: https://github.com/DeepLearningDTU/02456-deep-learning, and make sure that you can open the notebooks.
 
-### PREP: Machine Learning Introduction 
+### 2. PREP: Machine Learning Introduction 
 We will use the [scikit-learn](http://scikit-learn.org/stable/index.html) module to do machine learning in Python. It is built on NumPy, SciPy, and matplotlib and is fairly easy to use and it contains all the basic functions to do regular supervised and unsupervised learning. It contains a Neural network module as well, but it is fairly limited, so for neural nets we will use [Tensorflow](tensorflow.org) and the [Keras](keras.io) API
 
 * Use a Jupyter notebook to do the first two tutorials on  [scikit-learn](http://scikit-learn.org/stable/tutorial/).
@@ -61,10 +61,12 @@ Hint: you can hide the prompt and output of code blocks by clicking the top righ
        * Score
        * Cross-validation
        * Grid-search
-     
 
 
-### PREP: Statistical principles in supervised machine learning: overfitting, regularization and all that
+### 3. PREP: Disease modelling - Ole Christian Lingjærde 
+Reading material: might appear here.
+
+### 4. PREP: Statistical principles in supervised machine learning: overfitting, regularization and all that
 Read one of these:
 
 * For those with maths/stats background that want to go slightly deeper into the topic:
@@ -74,7 +76,7 @@ Read one of these:
 
 
 
-### PREP: One day mini-course on Deep Learning
+### 5. PREP: One day mini-course on Deep Learning
 
 Reading material: 
 
@@ -121,5 +123,5 @@ For example:
 * Some more will be added, if you happen to have a good data set (good meaning tabular data with features+target) laying around that you think others could use, feel free to share. 
 
 
-### PREP: Project
+### 6. PREP: Project
 * Think about use cases of ML in your problem domain.
