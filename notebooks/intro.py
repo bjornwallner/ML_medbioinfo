@@ -1,9 +1,11 @@
 
 # coding: utf-8
 
+# ## Test notebook to get you started. It has code blocks added from the scikit ML tutorial
 # 
+# you execute the code blocks by pressing shift+enter
 
-# In[1]:
+# In[4]:
 
 from sklearn import datasets
 iris = datasets.load_iris()
