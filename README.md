@@ -3,10 +3,13 @@
 This repository contains preparatory tasks, reading material and exercises for the Machine Learning in Medical Bioinformatics.
 
 ## Preparatory tasks (To be finished before the Workshop)
-Below is a list of tasks and reading material that should be finished before coming to the Workshop. There are quite a lot of material so it is completely alright if you don't understand all the details. The workload for the the preparatory tasks should be approximately one week, it is expected that you spend this amount of time to be prepared for the physical meeting. How much you spend on the various parts is up to you and your specific background, but you should come prepared and contribute to the workshop. You are encouraged to bring any questions that has come up for discussion at the workshop.
+Below is a list of tasks and reading material that should be finished before coming to the Workshop. There are quite a lot of material so it is completely alright if you don't understand every single detail. The workload for the the preparatory tasks should be approximately one week, it is expected that you spend this amount of time to be prepared for the physical meeting. How much you spend on the various parts is up to you and your specific background and interest, but you should come prepared and contribute to the workshop. You are encouraged to bring any questions that has come up for discussion at the workshop.
+ 
 
+After finishing (or during) the preparatory exercise you should post at least three questions and/or discussion points at the [canvas discussion forum](https://canvas.instructure.com/courses/1308611/discussion_topics/6553199) before June 8, 23:59:00.
 
-Many of the exercises will use Jupyter notebooks, an interactive Python environments that makes it possible to combine documentation with code. It is also possible to run Python and R code together.
+Good luck and if you have any question, do not hesitate to contact me. Contact details here
+
 
 ### Setup
 
@@ -20,7 +23,7 @@ Many of the exercises will use Jupyter notebooks, an interactive Python environm
 
 * Git clone the excerises for the deep learning here: https://github.com/DeepLearningDTU/02456-deep-learning, and make sure that you can open the notebooks.
 
-### PREP: Machine Learning Introduction
+### PREP: Machine Learning Introduction 
 We will use the [scikit-learn](http://scikit-learn.org/stable/index.html) module to do machine learning in Python. It is built on NumPy, SciPy, and matplotlib and is fairly easy to use and it contains all the basic functions to do regular supervised and unsupervised learning. It contains a Neural network module as well, but it is fairly limited, so for neural nets we will use [Tensorflow](tensorflow.org) and the [Keras](keras.io) API
 
 * Use a Jupyter notebook to do the first two tutorials on  [scikit-learn](http://scikit-learn.org/stable/tutorial/).
@@ -32,7 +35,6 @@ Focusing on the key concepts outlined below. The **goal** with this preparatory 
 * Actions:
 
   * Write down descriptions for the concepts
-  * Come up with at least three questions that can be discussed.
   * Think about cases were ML can be applied to your particular area (this can be used in the project later as well).
 	
 Hint: you can hide the prompt and output of code blocks by clicking the top right corner (see below) ![hide_prompt](images/hide_prompt.png)
@@ -74,42 +76,38 @@ Read one of these:
 
 ### PREP: One day mini-course on Deep Learning
 
+Reading material: 
 
-Reading material Michael Nielsen, Neural networks and deep learning http://neuralnetworksanddeeplearning.com/
+Before course browse or read: Michael Nielsen, Neural Networks and Deep Learning, http://neuralnetworksanddeeplearning.com/ chapter 1-4
 
-* Chapter 1: [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
-* Chapter 2: [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
-* Chapter 3: [Improving the way neural networks learn](http://neuralnetworksanddeeplearning.com/chap3.html), stop at "Overfitting and regularization"
-* Chapter 5: [Why are deep neural networks hard to train?](http://neuralnetworksanddeeplearning.com/chap5.html)
-* Chapter 6: [Deep Learning](http://neuralnetworksanddeeplearning.com/chap6.html)
+Compute and exercises: 
 
+We will use Jupyter Notebooks to run exercises in PyTorch. To get to that you need to install Anaconda and PyTorch  
+ 
+1. Before course: Follow the instructions in https://github.com/DeepLearningDTU/02456-deep-learning to install until the section called Native (no need to install TensorFlow).
 
+2. Before course: Install PyTorch (https://pytorch.org/) 
+
+3. Before course: Run exercises in https://github.com/munkai/pytorch-tutorial/tree/master/1_novice (Do not run exercises involving Cuda)
+
+4. At the course we will run exercises from https://github.com/munkai/pytorch-tutorial/tree/master/2_intermediate
+
+There are also pointers to additional reading material in the notebooks. This is not mandatory.
+
+Research papers - non-mandatory reading
+
+1. Paper https://academic.oup.com/bioinformatics/article/33/21/3387/3931857 and server http://www.cbs.dtu.dk/services/DeepLoc/
+
+2. Paper on Variational auto-encoder for single cell RNA seq analysis by Grønbech et al, to appear.
 
 
 ----------------------
 
-<!--
-## Exercise (During the Workshop)
-
-
-
-## Unsupervised learning, theory and exercise.
-
-### Reading
-
-http://scikit-learn.org/stable/tutorial/
-
-
-## Supervised learning, theory and exercise
-### Reading
-
-
-## One day mini-course on Deep Learning
--->
-
-
 ## Project
-The project is the examining part of the course. Together with participation at the workshop it is compulsory to gain the course credits. The workload is expected to be about a week. The project is your chance to learn a bit more about some particular ML methods. Choose at least two supervised and two undersupervised method.
+The project is the examining part of the course. Together with participation at the workshop it is compulsory to gain the course credits. The workload is expected to be about a week. The project is your chance to learn a bit more about some particular ML methods. The project consists of applying some ML metods to a particular dataset or datasets, and the compare the results. 
+
+
+Choose at least two supervised and two undersupervised method.
 
 * Describe the chosen methods
 * Describe what parameters are important
@@ -124,4 +122,8 @@ For example:
 
 * [Epileptic Seizure Recognition Data Set](http://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition)
 * [Mice Protein Expression Data Set](http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression)
-   
+* Some more will be added, if you happen to have a good data set (good meaning tabular data with features+target) laying around that you think others could use, feel free to share. 
+
+
+
+### PREP: Project
