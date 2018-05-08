@@ -21,7 +21,7 @@ Many of the exercises will use Jupyter notebooks, an interactive Python environm
 
 * If you are unfamiliar with Jupyter notebooks you can learn more using the following tutorial: https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook. 
 
-* Git clone this repo: https://github.com/bjornwallner/ML_medbioinfo and make sure you can open the notebook in `notebooks/intro.ipynb`
+* Git clone this repo: https://github.com/bjornwallner/ML_medbioinfo and make sure you can open the notebook in `notebooks/intro.ipynb` using the following commands:
 ```
 git clone https://github.com/bjornwallner/ML_medbioinfo
 cd ML_medbioinfo/notebooks
