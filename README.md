@@ -17,7 +17,7 @@ Many of the exercises will use Jupyter notebooks, an interactive Python environm
 
 * Read all of the instructions before starting, some tasks are practial, and some are reading, and some might contain some overlap.
 
-* Install [Anaconda](https://www.anaconda.com/download/) on your laptop, choose the Python 3.6 version. This will install a special version of Python that includes the Jupyter Notebook and basically all Python modules needed (deep-learning modules has to be installed separately), see instructions here: https://github.com/DeepLearningDTU/02456-deep-learning.
+* Install [Anaconda](https://www.anaconda.com/download/) on your laptop, choose the Python 3.6 version. This will install a special version of Python that includes the Jupyter Notebook and basically all Python modules needed (deep-learning modules has to be installed separately), see instructions below under deep learning. 
 
 * If you are unfamiliar with Jupyter notebooks you can learn more using the following tutorial: https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook. 
 
