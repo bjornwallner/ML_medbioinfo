@@ -78,7 +78,7 @@ Read one of these:
 
 Reading material: 
 
-Before course browse or read: Michael Nielsen, Neural Networks and Deep Learning, http://neuralnetworksanddeeplearning.com/ chapter 1-4
+__Before course__ browse or read: Michael Nielsen, Neural Networks and Deep Learning, http://neuralnetworksanddeeplearning.com/ chapter 1-4
 
 Compute and exercises: 
 
