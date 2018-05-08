@@ -8,7 +8,7 @@ Below is a list of tasks and reading material that should be finished before com
 
 After finishing (or during) the preparatory exercise you should post at least three questions and/or discussion points at the [canvas discussion forum](https://canvas.instructure.com/courses/1308611/discussion_topics/6553199) before June 8, 23:59:00.
 
-Good luck and if you have any question, do not hesitate to contact me at bjorn[point]wallner[A]liu[point]se
+Good luck and if you have any question, do not hesitate to contact me. Contact details [here](https://canvas.instructure.com/courses/1308611/users/14364140)
 
 
 ### 1. Setup
