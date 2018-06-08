@@ -131,3 +131,7 @@ For example:
 
 ### 6. PREP: Project
 * Think about use cases of ML in your problem domain.
+
+
+
+After finishing the preparatory exercise you should post at least three questions and/or discussion points as answers to this [pre-course assignments in canvas](https://canvas.instructure.com/courses/1308611/assignments/) before June 8, 23:59:00
