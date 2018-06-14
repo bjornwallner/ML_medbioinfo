@@ -132,7 +132,7 @@ For example:
 * [Mice Protein Expression Data Set](http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression)
 
 
-Upload a pdf of your report at [the assignments in canvas] (https://canvas.instructure.com/courses/1308611/assignments/8749314)
+Upload a pdf of your report at [the assignments in canvas](https://canvas.instructure.com/courses/1308611/assignments/8749314)
 
 ### 6. PREP: Project
 * Think about use cases of ML in your problem domain.
