@@ -106,7 +106,8 @@ Research papers - non-mandatory reading
 
 1. Paper https://academic.oup.com/bioinformatics/article/33/21/3387/3931857 and server http://www.cbs.dtu.dk/services/DeepLoc/
 
-2. Paper on Variational auto-encoder for single cell RNA seq analysis by Grønbech et al, to appear.
+2. Paper on Variational auto-encoder for single cell RNA seq analysis by Grønbech et al,  https://www.biorxiv.org/content/early/2018/05/16/318295
+
 
 
 ----------------------
