@@ -85,7 +85,7 @@ Browse or read: Michael Nielsen, Neural Networks and Deep Learning, http://neura
 
 Compute and exercises:
 
-Pointers to exercises might appear, we are working on updating last year's.
+Pointers to exercises might appear here, we are working on updating last year's.
 
 <!--
 We will use Jupyter Notebooks to run exercises in PyTorch. To get to that you need to install Anaconda and PyTorch  
