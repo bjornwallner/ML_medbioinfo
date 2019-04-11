@@ -1,4 +1,4 @@
-# Machine Learning in Medical Bioinformatics
+# Machine Learning in Medical Bioinformatics 2019
 
 This repository contains preparatory tasks, reading material and exercises for the [Machine Learning in Medical Bioinformatics](https://canvas.instructure.com/courses/1308611).
 
@@ -79,13 +79,13 @@ Read one of these:
 
 
 
-### 5. PREP: Deep Learning 
+### 4. PREP: Deep Learning 
 
-Reading material: 
+Browse or read: Michael Nielsen, Neural Networks and Deep Learning, http://neuralnetworksanddeeplearning.com/ chapter 1-4
 
-__Before course__ browse or read: Michael Nielsen, Neural Networks and Deep Learning, http://neuralnetworksanddeeplearning.com/ chapter 1-4
+Compute and exercises:
 
-Compute and exercises: 
+Pointers to exercises might appear, we are working on updating last year's.
 
 <!--
 We will use Jupyter Notebooks to run exercises in PyTorch. To get to that you need to install Anaconda and PyTorch  
@@ -134,9 +134,8 @@ For example:
 
 Upload a pdf of your report as answer to the [Project assignment in canvas](https://canvas.instructure.com/courses/1308611/assignments/8749314)
 
-### 6. PREP: Project
+### 5. PREP: Project
 * Think about use cases of ML in your problem domain.
 
 
-
-After finishing the preparatory exercise you should post at least three questions and/or discussion points as answers to this [pre-course assignments in canvas](https://canvas.instructure.com/courses/1308611/assignments/) before June 8, 23:59:00
+After finishing the preparatory exercise you should post at least three questions and/or discussion points as answers to this [pre-course assignments in canvas](https://canvas.instructure.com/courses/1308611/assignments/) before May 19, 23:59:00
