@@ -5,7 +5,7 @@ This repository contains preparatory tasks, reading material and exercises for t
 ## Preparatory tasks (To be finished before the Workshop)
 Below is a list of tasks and reading material that should be finished before coming to the Workshop. There are quite a lot of material so it is completely alright if you don't understand every single detail. The workload for the the preparatory tasks should be approximately one week, it is expected that you spend this amount of time to be prepared for the physical meeting. How much you spend on the various parts is up to you and your specific background and interest, but you should come prepared and contribute to the workshop. You are encouraged to bring any questions that has come up for discussion at the workshop.
  
-After finishing the preparatory exercise you should post at least three questions and/or discussion points as answers to this [pre-course assignments in canvas](https://canvas.instructure.com/courses/1308611/assignments/) before June 8, 23:59:00.  Clarification [added 1 June, 2018]: We will spend some time the first day discussing these questions, so ideally they should be open ended. Like I have this data X in my research project, how can I apply machine learning to it to learn trait Y? Even though they could also be simple like explain concept X and Y.
+After finishing the preparatory exercise you should post at least three questions and/or discussion points as answers to this [pre-course assignments in canvas](https://canvas.instructure.com/courses/1308611/assignments/) before May 19, 23:59:00.  We will spend some time the first day discussing these questions, so ideally they should be open ended. Like I have this data X in my research project, how can I apply machine learning to it to learn trait Y? Even though they could also be simple like explain concept X and Y.
 
 
 Good luck and if you have any question, do not hesitate to contact me. Contact details [here](https://canvas.instructure.com/courses/1308611/users/14364140)
@@ -69,10 +69,7 @@ Hint: you can hide the prompt and output of code blocks by clicking the top righ
        * Grid-search
 
 
-### 3. PREP: Disease modelling - Ole Christian Lingjærde 
-Reading material: might appear here.
-
-### 4. PREP: Statistical principles in supervised machine learning: overfitting, regularization and all that
+### 3. PREP: Statistical principles in supervised machine learning: overfitting, regularization and all that
 Read one of these:
 
 * For those with maths/stats background that want to go slightly deeper into the topic:
@@ -82,7 +79,7 @@ Read one of these:
 
 
 
-### 5. PREP: One day mini-course on Deep Learning
+### 5. PREP: Deep Learning 
 
 Reading material: 
 
@@ -90,6 +87,7 @@ __Before course__ browse or read: Michael Nielsen, Neural Networks and Deep Lear
 
 Compute and exercises: 
 
+<!--
 We will use Jupyter Notebooks to run exercises in PyTorch. To get to that you need to install Anaconda and PyTorch  
  
 1. __Before course__: Follow the instructions in https://github.com/DeepLearningDTU/02456-deep-learning to install until the section called Native (no need to install TensorFlow). If you already have Anaconda installed from above, just skip this step. 
@@ -101,6 +99,8 @@ We will use Jupyter Notebooks to run exercises in PyTorch. To get to that you ne
 4. At the course we will run exercises from https://github.com/munkai/pytorch-tutorial/tree/master/2_intermediate
 
 There are also pointers to additional reading material in the notebooks. This is not mandatory.
+
+-->
 
 Research papers - non-mandatory reading
 
