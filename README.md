@@ -124,7 +124,7 @@ The project is the examining part of the course. Together with participation at 
   * What parameters are optimal?
 * Conclusions on the difference between ML methods, performance, sensitivity to parameter choices, ease-of-use etc.
 
-If you cannot find a suitable ML project within your particular domain, you can use data from [ProQDock](data/ProQdock.csv), paper: https://academic.oup.com/bioinformatics/article/32/12/i262/2288786. Or you can choose a data set from the [Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html) to study. Make sure it has a good balance between number of examples (# Instances) and number of features (# Attributes).
+If you cannot find a suitable ML project within your particular domain, you can use data from [ProQDock](data/ProQDock.csv), paper: https://academic.oup.com/bioinformatics/article/32/12/i262/2288786. Or you can choose a data set from the [Machine Learning Repository](http://archive.ics.uci.edu/ml/) To study. Make sure it has a good balance between number of examples (# Instances) and number of features (# Attributes).
 
 For example:
 
