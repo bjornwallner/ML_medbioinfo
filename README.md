@@ -1,14 +1,14 @@
-# Machine Learning in Medical Bioinformatics 2019
+# Machine Learning in Medical Bioinformatics
 
 This repository contains preparatory tasks, reading material and exercises for the [Machine Learning in Medical Bioinformatics](https://canvas.instructure.com/courses/1308611).
 
 ## Preparatory tasks (To be finished before the Workshop)
 Below is a list of tasks and reading material that should be finished before coming to the Workshop. There are quite a lot of material so it is completely alright if you don't understand every single detail. The workload for the the preparatory tasks should be approximately one week, it is expected that you spend this amount of time to be prepared for the physical meeting. How much you spend on the various parts is up to you and your specific background and interest, but you should come prepared and contribute to the workshop. You are encouraged to bring any questions that has come up for discussion at the workshop.
  
-After finishing the preparatory exercise you should post at least three questions and/or discussion points as answers to this [pre-course assignments in canvas](https://canvas.instructure.com/courses/1308611/assignments/) before May 19, 23:59:00.  We will spend some time the first day discussing these questions, so ideally they should be open ended. Like I have this data X in my research project, how can I apply machine learning to it to learn trait Y? Even though they could also be simple like explain concept X and Y.
+After finishing the preparatory exercise you should post at least three questions and/or discussion points as answers to this in the pre-course assignments in canvas the day before the course starts.  We will spend some time the first day discussing these questions, so ideally they should be open ended. Like I have this data X in my research project, how can I apply machine learning to it to learn trait Y? Even though they could also be simple like explain concept X and Y.
 
 
-Good luck and if you have any question, do not hesitate to contact me. Contact details [here](https://canvas.instructure.com/courses/1308611/users/14364140)
+Good luck and if you have any question, do not hesitate to contact me. 
 
 
 ### 1. Setup
