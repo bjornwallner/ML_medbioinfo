@@ -83,11 +83,12 @@ Read one of these:
 
 Browse or read: Michael Nielsen, Neural Networks and Deep Learning, http://neuralnetworksanddeeplearning.com/ chapter 1-4
 
+<!--
 Compute and exercises:
 
 Pointers to exercises might appear here, we are working on updating last year's.
 
-<!--
+
 We will use Jupyter Notebooks to run exercises in PyTorch. To get to that you need to install Anaconda and PyTorch  
  
 1. __Before course__: Follow the instructions in https://github.com/DeepLearningDTU/02456-deep-learning to install until the section called Native (no need to install TensorFlow). If you already have Anaconda installed from above, just skip this step. 
