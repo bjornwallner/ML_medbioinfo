@@ -144,7 +144,7 @@ For example:
 * [Mice Protein Expression Data Set](http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression)
 
 
-Upload a pdf of your report as answer to the [Project assignment in canvas](https://canvas.instructure.com/courses/2716790/assignments/21445170)
+Upload a pdf of your report as answer to the [Project assignment in canvas](https://canvas.instructure.com/courses/6366473/assignments/36123072)
 
 
 
