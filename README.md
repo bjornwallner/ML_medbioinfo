@@ -117,7 +117,7 @@ Research papers - non-mandatory reading
 * Think about use cases of ML in your problem domain.
 
 
-Don't forget that after finishing the preparatory exercise you should post at least three questions and/or discussion points as answers to this [pre-course assignments in canvas] (https://canvas.instructure.com/courses/4191361/assignments/29403039), before May 1, 23:59
+Don't forget that after finishing the preparatory exercise you should post at least three questions and/or discussion points as answers to this [pre-course assignments in canvas](https://canvas.instructure.com/courses/6366473/assignments/36123072), 23:59 day before the course starts at the latest.
 
 
 
@@ -144,7 +144,8 @@ For example:
 * [Mice Protein Expression Data Set](http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression)
 
 
-Upload a pdf of your report as answer to the [Project assignment in canvas](https://canvas.instructure.com/courses/6366473/assignments/36123072)
+Upload a pdf of your report as answer to the [Project assignment in canvas](https://canvas.instructure.com/courses/6366473/assignments/36123073)
+
 
 
 
