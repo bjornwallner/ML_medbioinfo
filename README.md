@@ -78,7 +78,7 @@ Read one of these:
    <!--https://web.stanford.edu/~hastie/ElemStatLearn/. -->
   Chapters 2 and 3.
 * For those with other backgrounds:
-  * James et al. (2013). [An Introduction to Statistical Learning – with Applications in R. Springer] (https://canvas.instructure.com/files/212150739/download?download_frd=1). Chapters 2 and 6
+  * James et al. (2013). [An Introduction to Statistical Learning – with Applications in R. Springer](https://canvas.instructure.com/files/212150739/download?download_frd=1). Chapters 2 and 6
 
 
 
