@@ -74,11 +74,11 @@ Hint: you can hide the prompt and output of code blocks by clicking the top righ
 Read one of these:
 
 * For those with maths/stats background that want to go slightly deeper into the topic:
-  * Hastie et al (2009). [The Elements of Statistical Learning. Springer](https://canvas.instructure.com/files/212150967/download?download_frd=1). 
+  * Hastie et al (2009). [The Elements of Statistical Learning. Springer](https://github.com/bjornwallner/ML_medbioinfo/blob/master/An%20Introduction%20to%20Statistical%20Learning%20%20with%20Applications%20in%20R.pdf).
    <!--https://web.stanford.edu/~hastie/ElemStatLearn/. -->
   Chapters 2 and 3.
 * For those with other backgrounds:
-  * James et al. (2013). [An Introduction to Statistical Learning – with Applications in R. Springer](https://canvas.instructure.com/files/212150739/download?download_frd=1). Chapters 2 and 6
+  * James et al. (2013). [An Introduction to Statistical Learning – with Applications in R. Springer](https://github.com/bjornwallner/ML_medbioinfo/blob/master/ESLII_print12_toc-2.pdf). Chapters 2 and 6
 
 
 
