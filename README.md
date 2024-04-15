@@ -3,19 +3,19 @@
 This repository contains preparatory tasks, reading material and exercises for the [Machine Learning in Medical Bioinformatics](https://canvas.instructure.com/courses/2716790).
 
 ## Preparatory tasks (To be finished before the Workshop)
-Below is a list of tasks and reading material that should be finished before coming to the Workshop. There are quite a lot of material so it is completely alright if you don't understand every single detail. The workload for the the preparatory tasks should be approximately one week, it is expected that you spend this amount of time to be prepared for the physical meeting. How much you spend on the various parts is up to you and your specific background and interest, but you should come prepared and contribute to the workshop. You are encouraged to bring any questions that has come up for discussion at the workshop.
+Below is a list of tasks and reading material that should be finished before coming to the Workshop. There is quite a lot of material, so it is completely alright if you don't understand every single detail. The workload for the preparatory tasks should be approximately one week; it is expected that you spend this amount of time to prepare for the physical meeting. How much you spend on the various parts is up to you and your background and interest, but you should come prepared to contribute to the workshop. You are encouraged to bring any questions that have come up for discussion at the workshop.
  
-After finishing the preparatory exercise you should post at least three questions and/or discussion points as answers to this in the [pre-course assignments in canvas](https://canvas.instructure.com/courses/6366473/assignments/36123072) the day before the course starts.  We will spend some time the first day discussing these questions, so ideally they should be open ended. Like I have this data X in my research project, how can I apply machine learning to it to learn trait Y? Even though they could also be simple like explain concept X and Y.
+After finishing the preparatory exercise, you should post at least three questions and/or discussion points as answers to this in the [pre-course assignments in canvas](https://canvas.instructure.com/courses/8687227/assignments/45749652) the day before the course starts.  We will spend some time on the first day discussing these questions, so ideally, they should be open-ended. Like I have this data X in my research project, how can I apply machine learning to it to learn trait Y? Even though they could also be simple, like explaining concepts X and Y.
 
 
-Good luck and if you have any question, do not hesitate to contact me. 
+Good luck, and if you have any questions, do not hesitate to contact me. 
 
 
 ### 1. Setup
 
-Many of the exercises will use Jupyter notebooks, an interactive Python environments that makes it possible to combine documentation with code. It is also possible to run Python and R code together. Below are som instructions on how to set everything up.
+Many of the exercises will use Jupyter Notebooks, interactive Python environments that make it possible to combine documentation with code. It is also possible to run Python and R code together. Below are some instructions on how to set everything up.
 
-* Read all of the instructions before starting, some tasks are practial, and some are reading, and some might contain some overlap.
+* Read all of the instructions before starting; some tasks are practical, and some are reading, and some might contain some overlap.
 
 * Install [Anaconda](https://www.anaconda.com/download/) on your laptop. This will install a special version of Python that includes the Jupyter Notebook and basically all Python modules needed (deep-learning modules will be installed separately).
 <!--, see instructions below under deep learning.  -->
