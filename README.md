@@ -119,7 +119,7 @@ Research papers - non-mandatory reading
 * Think about use cases of ML in your problem domain.
 
 
-Don't forget that after finishing the preparatory exercise you should post at least three questions and/or discussion points as answers to this [pre-course assignments in canvas](https://canvas.instructure.com/courses/6366473/assignments/36123072), 23:59 day before the course starts at the latest.
+Don't forget that after finishing the preparatory exercise you should post at least three questions and/or discussion points as answers to this [pre-course assignments in canvas](https://canvas.instructure.com/courses/8687227/assignments/45749652), 23:59 day before the course starts at the latest.
 
 
 
