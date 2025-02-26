@@ -1,11 +1,11 @@
 # Machine Learning in Medical Bioinformatics
 
-This repository contains preparatory tasks, reading material and exercises for the [Machine Learning in Medical Bioinformatics](https://canvas.instructure.com/courses/2716790).
+This repository contains preparatory tasks, reading material and exercises for the [Machine Learning in Medical Bioinformatics](https://canvas.instructure.com/courses/11426078).
 
 ## Preparatory tasks (To be finished before the Workshop)
 Below is a list of tasks and reading material that should be finished before coming to the Workshop. There is quite a lot of material, so it is completely alright if you don't understand every single detail. The workload for the preparatory tasks should be approximately one week; it is expected that you spend this amount of time to prepare for the physical meeting. How much you spend on the various parts is up to you and your background and interest, but you should come prepared to contribute to the workshop. You are encouraged to bring any questions that have come up for discussion at the workshop.
  
-After finishing the preparatory exercise, you should post at least three questions and/or discussion points as answers to this in the [pre-course assignments in canvas](https://canvas.instructure.com/courses/8687227/assignments/45749652) the day before the course starts.  We will spend some time on the first day discussing these questions, so ideally, they should be open-ended. Like I have this data X in my research project, how can I apply machine learning to it to learn trait Y? Even though they could also be simple, like explaining concepts X and Y.
+After finishing the preparatory exercise, you should post at least three questions and/or discussion points as answers to this in the [pre-course assignments in canvas](https://canvas.instructure.com/courses/11426078/assignments/53420835) the day before the course starts.  We will spend some time on the first day discussing these questions, so ideally, they should be open-ended. Like I have this data X in my research project, how can I apply machine learning to it to learn trait Y? Even though they could also be simple, like explaining concepts X and Y.
 
 
 Good luck, and if you have any questions, do not hesitate to contact me. 
@@ -119,7 +119,7 @@ Research papers - non-mandatory reading
 * Think about use cases of ML in your problem domain.
 
 
-Don't forget that after finishing the preparatory exercise you should post at least three questions and/or discussion points as answers to this [pre-course assignments in canvas](https://canvas.instructure.com/courses/8687227/assignments/45749652), 23:59 day before the course starts at the latest.
+Don't forget that after finishing the preparatory exercise you should post at least three questions and/or discussion points as answers to this [pre-course assignments in canvas](https://canvas.instructure.com/courses/11426078/assignments/53420835), 23:59 Sunday, the week before the course starts at the latest.
 
 
 
@@ -146,7 +146,7 @@ For example:
 * [Mice Protein Expression Data Set](http://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression)
 
 
-Upload a pdf of your report as answer to the [Project assignment in canvas](https://canvas.instructure.com/courses/6366473/assignments/36123073)
+Upload a pdf of your report as answer to the [Project assignment in canvas](https://canvas.instructure.com/courses/11426078/assignments/53420836) 
 
 
 
