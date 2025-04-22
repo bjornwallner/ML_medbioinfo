@@ -46,7 +46,7 @@ Focusing on the key concepts outlined below. The **goal** with this preparatory 
 	
 Hint: you can hide the prompt and output of code blocks by clicking the top right corner (see below) ![hide_prompt](images/hide_prompt.png)
 
-  1. [An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
+  1. [An introduction to machine learning with scikit-learn](https://scikit-learn.org/1.4/tutorial/basic/tutorial.html) 
      * Key concepts:
        * Training set
        * Testing set
@@ -58,7 +58,7 @@ Hint: you can hide the prompt and output of code blocks by clicking the top righ
        * Model fit
        * Model predict
 
-  2. [A tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html), stop at "Putting it all together"
+  2. [A tutorial on statistical-learning for scientific data processing](https://scikit-learn.org/1.4/tutorial/statistical_inference/index.html), stop at "Putting it all together"
      * Key concepts:
        * Supervised learning, incl. examples of methods
        * Unsupervised learning, incl. examples of methods
